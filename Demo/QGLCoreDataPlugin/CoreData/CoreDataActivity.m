@@ -9,6 +9,7 @@
 // References:
 // http://cutecoder.org/featured/asynchronous-core-data-document/
 // http://www.touchwonders.com/fast-and-non-blocking-core-data-back-end-programming/
+// http://benedictcohen.co.uk/blog/archives/308
 
 #import "CoreDataActivity.h"
 
